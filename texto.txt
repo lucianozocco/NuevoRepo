@@ -2,5 +2,4 @@ Hola
 Hola
 Hola
 Este es el commit de la rama master
-Este es el commit de la rama secundaria
-A LA MASTER
+Esta es la version final que surgió del conflicto.
