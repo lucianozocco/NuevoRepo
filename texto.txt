@@ -1,5 +1,6 @@
 Hola
 Hola
-Hola
+Hola-Chau
 Este es el commit de la rama master
-Este es el commit de la terciaria
+Esta es la version final que surgió del conflicto.
+Esta es la prueba para el reseteo
