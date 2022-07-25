@@ -1,5 +1,2 @@
-Hola
-Hola
-Hola
-Este es el commit de la rama master
-Este es el commit de la terciaria
+Acá hacemos las modificaciones a la rama terciaria
+
