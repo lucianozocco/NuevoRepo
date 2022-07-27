@@ -3,3 +3,4 @@ Mi prueba de stash
 
 Este es mi commit A
 Este es mi commit B
+Este es mi commit D
