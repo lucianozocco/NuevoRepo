@@ -1,3 +1,1 @@
-Desde cero
-Commit A de master
-Commit B de master
+CERO
